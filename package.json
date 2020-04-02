@@ -1,0 +1,18 @@
+{
+  "name": "crashcourse",
+  "version": "1.0.0",
+  "description": "An introduction to Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "AL",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
